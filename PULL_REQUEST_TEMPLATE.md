@@ -1,19 +1,18 @@
 ## Objetivo
-- [ ] Implementação de funcionalidade
+- [X] Implementação de funcionalidade
 - [ ] Reparação de bugs
 - [ ] Atualização da documentação
 - [ ] Outro
 
 ## Descrição
-> Favor incluir uma descrição sobre o que foi feito
-
+> Envio inicial dos painéis do projeto, tanto o de gestão, quanto o de análises da feira
 
 ## Checklist de boas práticas
 - [ ] Meu código segue o padrão do projeto (https://www.conventionalcommits.org/en/v1.0.0/)
-- [ ] Eu revisei o código
+- [X] Eu revisei o código
 - [ ] Eu realizei testes que provam que as alterações são efetivas
 - [ ] Eu atualizei a documentação se necessário
 - [ ] Eu atualizei variáveis de ambiente/infraestrutura se necessário
 
 ## Link da Tarefa do Jira relacionada:
-> Favor incluir o link da tarefa referente ao card do Jira
+> https://codcoz-segundoano.atlassian.net/browse/CDZ-257, https://codcoz-segundoano.atlassian.net/browse/CDZ-258
